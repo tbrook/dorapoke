@@ -1,6 +1,6 @@
 = dorapoke
 
-Description goes here.
+今日から100年後に、のび太の家のドラえもんが誕生します。その記念
 
 == Contributing to dorapoke
  

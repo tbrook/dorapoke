@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "dorapoke"
   gem.homepage = "http://github.com/tbrook/dorapoke"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Dorapoke}
+  gem.description = %Q{Dorapoke}
   gem.email = "tbrook.net@gmail.com"
   gem.authors = ["tbrook"]
   # dependencies defined in Gemfile
